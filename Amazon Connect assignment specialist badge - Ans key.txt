@@ -1,0 +1,84 @@
+ 1)  1
+
+2
+
+3
+
+4 - Amazon Q, CCP , Amazon Connect Customer Profile
+
+5 - 
+
+6
+
+7
+
+8
+
+9 -
+
+10 - per min, per min , per day
+
+
+11 500 milion and VDI
+
+12 - Distribute by Percentage
+
+13 - Agent Wishper flow
+
+14 - Set Recording and analytics Behaiour
+
+15 - Set logging Behaviour 
+
+16 - Amazon COnnect cases
+
+17 - User-defined contact attribute with record
+
+18 - User defined
+
+
+19 Amazon Lex
+
+
+20 Design Modular
+
+21 AWS lambda , custmor profile
+
+22 Implement Error
+
+23 Contact Flow Module
+
+24 version control and
+
+25 Q and step by step
+
+26 Disconnect call and Use Summerzation 
+
+27 Same queue and Voice queue
+
+28  Use Agent Queue , Use the Change Routing Prioirty , age flow block in the flows, use profiniency- based routing
+
+29 Use flow block
+
+30 Group queue based on agent skill
+
+31 Play Custmziozed Hold message
+
+32  Profinoesisy Based.
+
+33 Check Staffing
+
+34  RP
+
+35  CRM and Calculate attribute
+
+36 Real-time matrics
+
+37 Lambda and DynamoDB
+
+38 Offer call and get use the get queue.
+
+39 OTP and Flag, track
+
+40 
+
+41 Kinesis and Voice Contact API
